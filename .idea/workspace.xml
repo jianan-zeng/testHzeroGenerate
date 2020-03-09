@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bcb489f1-cdb3-4fed-8383-21b2891e61b5" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hzero-todo-service" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\Apache\maven-repository" />
+        <option name="mavenHome" value="D:/software/software/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\software\software\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y7bklk59zxef8KhOmKTtW5gsl7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/我的项目/常州厚生/前期准备/hzero-generator" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 10 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 10 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="hzero-todo-service" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-todo-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hzero.todo.TodoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcb489f1-cdb3-4fed-8383-21b2891e61b5" name="Default" comment="" />
+      <created>1581923983056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581923983056</updated>
+      <workItem from="1581923989183" duration="2464000" />
+      <workItem from="1582296727036" duration="2276000" />
+      <workItem from="1582463479482" duration="2800000" />
+      <workItem from="1582784147135" duration="2014000" />
+      <workItem from="1582849945890" duration="4611000" />
+      <workItem from="1583204421141" duration="5352000" />
+      <workItem from="1583368806855" duration="250000" />
+      <workItem from="1583378038652" duration="9371000" />
+      <workItem from="1583456499727" duration="7989000" />
+      <workItem from="1583475537593" duration="4790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="62" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582784797517">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state x="62" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1210.720@0.0.1210.720" timestamp="1582784797517" />
+    <state x="412" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1583475388677">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state x="412" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1210.720@0.0.1210.720" timestamp="1583475388677" />
+    <state x="388" y="113" key="FileChooserDialogImpl" timestamp="1583475824041">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state x="388" y="113" key="FileChooserDialogImpl/0.0.1210.720@0.0.1210.720" timestamp="1583475824041" />
+    <state x="390" y="113" key="FileChooserDialogImpl/0.0.1217.720@0.0.1217.720" timestamp="1582298272918" />
+    <state width="1154" height="62" key="GridCell.Tab.0.bottom" timestamp="1583507754628">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1154" height="62" key="GridCell.Tab.0.bottom/0.0.1210.720@0.0.1210.720" timestamp="1583507754628" />
+    <state width="1161" height="323" key="GridCell.Tab.0.bottom/0.0.1217.720@0.0.1217.720" timestamp="1582299005933" />
+    <state width="1154" height="62" key="GridCell.Tab.0.center" timestamp="1583507754628">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1154" height="62" key="GridCell.Tab.0.center/0.0.1210.720@0.0.1210.720" timestamp="1583507754628" />
+    <state width="1161" height="323" key="GridCell.Tab.0.center/0.0.1217.720@0.0.1217.720" timestamp="1582299005933" />
+    <state width="1154" height="62" key="GridCell.Tab.0.left" timestamp="1583507754628">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1154" height="62" key="GridCell.Tab.0.left/0.0.1210.720@0.0.1210.720" timestamp="1583507754628" />
+    <state width="1161" height="323" key="GridCell.Tab.0.left/0.0.1217.720@0.0.1217.720" timestamp="1582299005932" />
+    <state width="1154" height="62" key="GridCell.Tab.0.right" timestamp="1583507754628">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1154" height="62" key="GridCell.Tab.0.right/0.0.1210.720@0.0.1210.720" timestamp="1583507754628" />
+    <state width="1161" height="323" key="GridCell.Tab.0.right/0.0.1217.720@0.0.1217.720" timestamp="1582299005933" />
+    <state width="1154" height="62" key="GridCell.Tab.1.bottom" timestamp="1583507754628">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1154" height="62" key="GridCell.Tab.1.bottom/0.0.1210.720@0.0.1210.720" timestamp="1583507754628" />
+    <state width="1161" height="323" key="GridCell.Tab.1.bottom/0.0.1217.720@0.0.1217.720" timestamp="1582299005933" />
+    <state width="1154" height="62" key="GridCell.Tab.1.center" timestamp="1583507754628">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1154" height="62" key="GridCell.Tab.1.center/0.0.1210.720@0.0.1210.720" timestamp="1583507754628" />
+    <state width="1161" height="323" key="GridCell.Tab.1.center/0.0.1217.720@0.0.1217.720" timestamp="1582299005933" />
+    <state width="1154" height="62" key="GridCell.Tab.1.left" timestamp="1583507754628">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1154" height="62" key="GridCell.Tab.1.left/0.0.1210.720@0.0.1210.720" timestamp="1583507754628" />
+    <state width="1161" height="323" key="GridCell.Tab.1.left/0.0.1217.720@0.0.1217.720" timestamp="1582299005933" />
+    <state width="1154" height="62" key="GridCell.Tab.1.right" timestamp="1583507754628">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1154" height="62" key="GridCell.Tab.1.right/0.0.1210.720@0.0.1210.720" timestamp="1583507754628" />
+    <state width="1161" height="323" key="GridCell.Tab.1.right/0.0.1217.720@0.0.1217.720" timestamp="1582299005933" />
+    <state x="110" y="0" key="SettingsEditor" timestamp="1583483037324">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state x="110" y="0" key="SettingsEditor/0.0.1210.720@0.0.1210.720" timestamp="1583483037324" />
+    <state x="111" y="0" key="SettingsEditor/0.0.1217.720@0.0.1217.720" timestamp="1582298429817" />
+    <state x="268" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1583472029204">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state x="268" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1210.720@0.0.1210.720" timestamp="1583472029204" />
+  </component>
+</project>
